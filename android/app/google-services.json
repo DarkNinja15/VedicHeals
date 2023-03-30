@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "413155598100",
+    "project_id": "vedicheals",
+    "storage_bucket": "vedicheals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413155598100:android:e451d93716414fd366ac01",
+        "android_client_info": {
+          "package_name": "com.example.vedic_heals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413155598100-f2o5gr46j4ob3kl8a72d7mg2p6k2r2jo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vedic_heals",
+            "certificate_hash": "66dbd204fb8d8898a09385562cf8150f5c0b1ac3"
+          }
+        },
+        {
+          "client_id": "413155598100-jf0obq38mcqo4vhcpbg83tc6vvrfba16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB20EhUNacfhyp4j30LDSg9X2Bbeuy55dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413155598100-6j9q59ugrqjr51328reopqo3ie0cjaia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
