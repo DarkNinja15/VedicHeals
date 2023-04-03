@@ -155,7 +155,7 @@ class _LandingPageState extends State<LandingPage> {
                       const Padding(
                         padding: EdgeInsets.all(8.0),
                         child: Text(
-                          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                          "Our application is a platform dedicated to providing alternative home remedies for various diseases, along with information on Ayurvedic institutions and hospitals across the country.\n We also share insightful blogs on the latest researches on diseases to help users stay informed about Ayurvedic medicine.\n Our mission is to promote natural health and wellness through the use of Ayurvedic remedies and to provide reliable information to our users.",
                           style: TextStyle(
                             fontWeight: FontWeight.bold,
                           ),
